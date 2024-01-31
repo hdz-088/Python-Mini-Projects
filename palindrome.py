@@ -7,4 +7,4 @@ copy_list.reverse()
 if (copy_list == list):
     print("List is Palindrome")
 else:
-    print("List isnt Palindrome")
+    print("List isn't Palindrome")
