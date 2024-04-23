@@ -1,4 +1,9 @@
-# Program to find biggest number of 4 numbers
+"""
+Title: Program to find biggest number of 4 numbers
+Author: HDz(https://github.com/hdz-088/)
+Date of Creation: January 31st, 2024
+Last Update: April 23rd, 2024
+"""
 
 a = int(input("Enter 1st:"))
 b = int(input("Enter 2nd:"))
