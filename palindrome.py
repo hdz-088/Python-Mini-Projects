@@ -1,17 +1,17 @@
-"""
-Title: Program to Check Whether Given List is Palindrome or Not
-Author: HDz(https://github.com/hdz-088/)
-Date of Creation: January 31st, 2024
-Last Update: April 23rd, 2024
-"""
+"""Program to Check Whether Given List is Palindrome or Not."""
 
-list = [1, 2, 3, 2, 1]
+# Title: Program to Check Whether Given List is Palindrome or Not
+# Author: HDz(https://github.com/hdz-088/)
+# Date of Creation: January 31st, 2024
+# Last Update: May 04th, 2024
 
-copy_list = list.copy()
+user_list = [1, 2, 3, 2, 1]
+
+copy_list = user_list.copy()
 
 copy_list.reverse()
 
-if (copy_list == list):
+if copy_list == user_list:
     print("List is Palindrome")
 else:
     print("List isn't Palindrome")
