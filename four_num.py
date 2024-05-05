@@ -1,9 +1,9 @@
-"""Program to find biggest number of 4 numbers Insertd by User."""
-
-# Title: Program to find biggest number of 4 numbers
-# Author: HDz(https://github.com/hdz-088/)
-# Date of Creation: January 31st, 2024
-# Last Update: May 04th, 2024
+"""
+> Title: Program to find biggest number of 4 numbers Insertd by User.
+> Author: HDz(https://hdz-088.github.io/hdzala/)
+> Date of Creation: January 31st, 2024
+> Last Update: May 05th, 2024
+"""
 
 num1 = int(input("Enter 1st:"))
 num2 = int(input("Enter 2nd:"))

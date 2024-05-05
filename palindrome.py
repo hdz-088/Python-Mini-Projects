@@ -1,9 +1,9 @@
-"""Program to Check Whether Given List is Palindrome or Not."""
-
-# Title: Program to Check Whether Given List is Palindrome or Not
-# Author: HDz(https://github.com/hdz-088/)
-# Date of Creation: January 31st, 2024
-# Last Update: May 04th, 2024
+"""
+> Title: Program to Check Whether Given List is Palindrome or Not
+> Author: HDz(https://hdz-088.github.io/hdzala/)
+> Date of Creation: January 31st, 2024
+> Last Update: May 04th, 2024
+"""
 
 user_list = [1, 2, 3, 2, 1]
 
