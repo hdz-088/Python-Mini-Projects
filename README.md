@@ -41,5 +41,6 @@ This repository contains mini projects made by [me](https://hdz-088.github.io/hd
 | 35  | Program to Find the Largest Element of Array                                                                      | [array_largest.py](https://github.com/hdz-088/Python-Mini-Projects/blob/main/array_largest.py)                   |
 | 36  | Program to Find the Smallest Element of Array                                                                     | [array_smallest.py](https://github.com/hdz-088/Python-Mini-Projects/blob/main/array_smallest.py)                 |
 | 37  | Program For Array Rotation                                                                                        | [array_rotation.py](https://github.com/hdz-088/Python-Mini-Projects/blob/main/array_rotation.py)                 |
+| 38  | Program to Split The Array and Add The First Part to The End                                                      | [array_split.py](https://github.com/hdz-088/Python-Mini-Projects/blob/main/array_split.py)                       |
 
 ---
