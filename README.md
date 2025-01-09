@@ -1,6 +1,10 @@
 # Python Mini Projects Repository
 
-This repository contains mini projects made by [me](https://hdz-088.github.io/hdzala/) in Python, while I was learning Python.
+<p align="center">
+   <img src="pmp.png" width="60%">
+</p>
+
+This repository contains mini projects made by [me](https://hdzala.vercel.app/) in Python, while I was learning Python.
 
 | Sr  | Title                                                                                                             | Link                                                                                                             |
 | --- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
